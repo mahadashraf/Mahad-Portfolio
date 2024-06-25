@@ -86,7 +86,7 @@ const skillData = [
                 imgPath: '/about/figma.svg',
             },
             {
-                imgPath: '/about/nodejs.jpg ',
+                imgPath: '/about/nodejs.jpeg ',
             },
             {
                 imgPath: '/about/Wordpress.png',
@@ -98,7 +98,7 @@ const skillData = [
                 imgPath: '/about/mongodb.svg',
             },
             {
-                imgPath: '/about/Java.jpg ',
+                imgPath: '/about/Java.jpeg ',
             },
             {
                 imgPath: '/about/Php.png',
