@@ -6,7 +6,7 @@ import ProjectCard from "@/components/ProjectCard";
 
 const projectData = [
   {
-      image: '/work/pro_pic_1.png',
+      image: '/work/pro_pic_1.jpg',
       category: 'HTML/CSS',
       name: 'Yummy Donuts',
       description:
@@ -24,7 +24,7 @@ const projectData = [
       github: 'https://github.com/mahadashraf/MERN-CRUD-App-with-User-Authentication',
     },
   {
-      image: '/work/pro_pic_3.png',
+      image: '/work/pro_pic_3.jpg',
       category: 'HTML/CSS',
       name: 'A4People',
       description:
@@ -34,7 +34,7 @@ const projectData = [
     },
     
   {
-      image: '/work/pro_pic_4.png',
+      image: '/work/pro_pic_4.jpg',
       category: 'React js',
       name: 'Banking Website',
       description:
@@ -43,7 +43,7 @@ const projectData = [
       github: 'https://github.com/mahadashraf/Bank-Website',
     },
   {
-      image: '/work/pro_pic_5.png',
+      image: '/work/pro_pic_5.jpg',
       category: 'React js',
       name: 'AnzMarketing',
       description:
@@ -63,7 +63,6 @@ const projectData = [
     
 
 ];
-
 const uniqueCategories = ['all projects',...new Set(projectData.map((item) => item.category))];
 
 
